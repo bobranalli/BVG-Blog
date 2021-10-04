@@ -184,10 +184,17 @@ h3 {
   margin-left: 24%;
 }
 
-
 .border-box {
   border: 6px solid grey;
   margin: 10px;
+}
+
+.blog-title {
+  margin-left: 10%;
+}
+
+.image-container {
+  margin-left: 5%;
 }
 
 /*
@@ -207,3 +214,4 @@ Recycling Bin from drafts
 
 
  */
+
