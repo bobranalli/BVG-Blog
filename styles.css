@@ -190,12 +190,13 @@ h3 {
 }
 
 .blog-title {
-  margin-left: 20%;
+  margin-left: 8%;
   font-size: 25px;
 }
 
 .image-container {
   margin-left: 1%;
+  height: 40%;
 }
 
 /*
